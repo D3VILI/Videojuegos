@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">VideoGamesInfo</string>
+    <string name="nombre">Nombre del videojuego</string>
+    <string name="ir">Visitar</string>
+    <string name="otro">Otros_Juegos</string>
+    <string name="cerrar">Atras</string>
+    <string name="opcion1">Recibir información sobre el videojuego elegido</string>
+    <string name="opcion2">No recibir información sobre el videojuego elegido</string>
+    <string name="titulo">TITULO:</string>
+    <string name="informacion">INFORMACION:</string>
+    <string name="personaje">Nombre de personajes</string>
+    <string name="genero">Genero</string>
+    <string name="Personajes">Personajes:</string>
+    <string name="titulo_nomb"></string>
+    <string name="inf_videos"></string>
+    <string name="inf_personajes"></string>
+    <string name="inf_genero"></string>
+    <string name="generos">Genero:</string>
+    <string name="Verificar">Verificar</string>
+    <string name="iniciar">Iniciar Sesion</string>
+    <string name="CrearC">Crear Cuenta</string>
+    <string name="nick">Nick de la cuenta</string>
+    <string name="contra">Contraseña de la cuenta</string>
+    <string name="correo">Correo electronico</string>
+    <string name="crearContra">Contraseña</string>
+    <string name="nombreUsuario">Nombre completo</string>
+    <string name="nombre_nick">Nick para la cuenta</string>
+
+
+</resources>
